@@ -1,0 +1,71 @@
+{
+  "build": {
+    "beforeDevCommand": "",
+    "beforeBuildCommand": "",
+    "devPath": "https://account.proton.me/login",
+    "distDir": "https://account.proton.me/login",
+    "withGlobalTauri": true
+  },
+  "package": {
+    "productName": "Protonmail",
+    "version": "0.0.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": true,
+    "window": {
+      "maximize": false,
+      "print": true,
+      "requestUserAttention": false,
+      "setAlwaysOnTop": false,
+      "setClosable": false,
+      "setContentProtected": true,
+      "setCursorGrab": false,
+      "setCursorIcon": false,
+      "setCursorPosition": false,
+      "setCursorVisible": false,
+      "setDecorations": false,
+      "setFocus": true,
+      "setFullscreen": false,
+      "setIcon": true,
+      "setIgnoreCursorEvents": false,
+      "setMaxSize": false,
+      "setMaximizable": false,
+      "setMinSize": false,
+      "setMinimizable": false,
+      "setPosition": false,
+      "setResizable": false,
+      "setSize": false,
+      "setSkipTaskbar": false,
+      "setTitle": false,
+      "show": false,
+      "startDragging": false,
+      "unmaximize": false,
+      "unminimize": false
+    }
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "com.tauri.dev",
+      "icon": [
+        "icons/icon.ico"
+      ]
+    },
+    "security": {
+      "csp": null
+    },
+    "windows": [
+      {
+        "fullscreen": false,
+        "resizable": true,
+        "title": "Protonmail-Tauri",
+        "width": 800,
+        "height": 600,
+        "center": true,
+        "x": 0,
+        "y": 0
+      }
+    ]
+  }
+}
