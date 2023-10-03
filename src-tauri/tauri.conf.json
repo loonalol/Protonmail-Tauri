@@ -47,7 +47,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.fluffy.dev",
+      "identifier": "com.allure.dev",
       "icon": [
         "icons/icon.ico"
       ]
