@@ -1,9 +1,9 @@
 [package]
 name = "protonmail"
 version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
+description = "protonmail bridge for poor people"
+authors = ["allure"]
+license = "GNU General Public License v3.0"
 repository = ""
 edition = "2021"
 
