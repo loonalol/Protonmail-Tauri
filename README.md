@@ -10,7 +10,7 @@ It's only been tested on windows 11 lol
 
 
 
-#Tuari default bullshit
+# Tuari default bullshit
 # Tauri + Vanilla
 
 This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
