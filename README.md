@@ -18,8 +18,8 @@ $ pnpm run tauri
 ```
 
 
-# Tuari default bullshit
-# Tauri + Vanilla
+# Tuari default message
+Tauri + Vanilla
 
 This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
 
