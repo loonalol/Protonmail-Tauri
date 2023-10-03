@@ -47,7 +47,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.tauri.dev",
+      "identifier": "com.fluffy.dev",
       "icon": [
         "icons/icon.ico"
       ]
